@@ -15,3 +15,10 @@
 	  float: right;
 	  width:200px;
 	  }
+	  
+	  .mstrHelpShortcut:hover{
+       background: transparent url(images/powered_by_octo_logo.png) no-repeat scroll center;
+	  display: block;
+	  float: right;
+	  width:200px;
+	  }
