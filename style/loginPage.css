@@ -1,0 +1,45 @@
+	#lb_LoginStyle {
+		background: 		transparent url(images/user-shape.png) no-repeat scroll center;
+		border-radius: 8px;
+		}	
+	.mstrLoginButtonBarLeft .mstrButton {
+		background: 		cornflowerblue !important;
+		color: 		#ffffff !important;
+		box-shadow: 		none !important; 
+		}
+	.mstrLoginButtonBarRight .mstrButton {
+		background: 		orangered !important;
+		color: 		#ffffff !important;
+		box-shadow: 		none !important;
+		}
+	.mstrLoginButtonBarLeft .mstrButton:hover  {
+	background: linear-gradient(to top,rgb(76, 112, 214) 0,rgb(76, 112, 204) 100%) !important;
+		}
+	.mstrLoginButtonBarRight .mstrButton:hover {
+	background: linear-gradient(to top,rgb(226,47, 4) 0,rgb(226, 47, 4) 100%) !important;
+		}
+	.mstrWeb td {
+    background-color:white;
+		}
+	.mstrLoginFieldsGroup .mstrInputText {
+    background: white;
+		}
+	A.mstrLink:hover .mstrLogo {
+    background: transparent url(images/dcgov_logo.jpg) no-repeat scroll center;
+	padding-bottom: 7px;
+    padding-right: 10px;
+		}
+	.mstrLogo {
+    background: transparent url(images/dcgov_logo.jpg) no-repeat scroll center;
+	padding-bottom: 7px;
+    padding-right: 10px;
+		}
+	
+	.Red .mstrPath>TABLE, .Red .mstrPath>DIV {
+    border-bottom-color: #c1c1c1;
+		}
+
+	.mstrlogindialogsupport {
+		display: block;
+		margin-top: 50px;		
+		}
