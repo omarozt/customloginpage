@@ -1,0 +1,17 @@
+
+	.mstr-page-login #mstrWebContents {
+		background: 		white;
+	}
+	.mstrPathTDLeft {
+	background-color: white;
+	}
+	.mstrAdminPathShortcuts {
+   display:none;
+}
+
+ .mstrHelpShortcut{
+       background: transparent url(images/powered_by_octo_logo.png) no-repeat scroll center;
+	  display: block;
+	  float: right;
+	  width:200px;
+	  }
